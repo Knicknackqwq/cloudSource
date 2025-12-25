@@ -33,6 +33,12 @@
     "class_name": "Links友链",
     "class_desc": "萍水相逢，相识便是缘分，这里是网上认识的小伙伴",
     "link_list": [
+      {
+        "name": "Castoriceの杂货铺",
+        "link": "https://wcq297.github.io/",
+        "avatar": "https://wcq297.github.io/img/%E5%A4%B4%E5%83%8F.jpg",
+        "descr": "阁下，我能得到一个拥抱吗"
+      }
     ]
   }
 ]
