@@ -40,5 +40,17 @@
         "descr": "阁下，我能得到一个拥抱吗"
       }
     ]
+  },
+  {
+    "class_name": "Wonderful Platform",
+    "class_desc": "非常棒的分享平台",
+    "link_list": [
+      {
+        "name": "CS自学指南",
+        "link": "https://csdiy.wiki/",
+        "avatar": "http://www.w3.org/2000/svg",
+        "descr": "一份献给北大信科学弟学妹们的礼物"
+      }
+    ]
   }
 ]
